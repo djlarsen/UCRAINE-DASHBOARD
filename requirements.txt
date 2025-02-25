@@ -1,0 +1,7 @@
+streamlit
+tweepy
+praw
+google-api-python-client
+pandas
+nltk
+plotly

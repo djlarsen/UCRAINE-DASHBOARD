@@ -195,7 +195,7 @@ with st.sidebar:
     st.markdown("Questa dashboard analizza il sentiment delle discussioni sull'Ucraina da diverse fonti social.")
     st.markdown("I dati vengono aggiornati automaticamente ogni 12 ore.")
     st.markdown("---")
-    st.markdown("Sviluppato per: Gabriele")
+    st.markdown("Sviluppato da: Gabriele Albanese")
     
 # Carica o aggiorna i dati
 df, last_update = collect_and_analyze_data()
